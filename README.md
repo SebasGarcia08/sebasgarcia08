@@ -3,11 +3,12 @@
 </center>
 <h1 align="center">Hi 👋, I'm Sebastian Garcia</h1>
 <h3 align="center">A passionate AI Enthusiast that loves solving problems with data and technology.</h3>
-<img align='right' alt="AI" width='250' src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasgarcia08&label=Profile%20views&color=0e75b6&style=flat" alt="sebasgarcia08" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sebasgarcia08" alt="sebasgarcia08" /></a> </p>
+
+<img align='right' alt="AI" width='250' src='https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif'>
 
 <p align="left"> <a href="https://twitter.com/__sebasgar__" target="blank"><img src="https://img.shields.io/twitter/follow/__sebasgar__?logo=twitter&style=for-the-badge" alt="__sebasgar__" /></a> </p>
 
