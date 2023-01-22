@@ -1,5 +1,5 @@
 <center>
-<img alt="AI" width='100%' height="50%" src='https://ethz.ch/en/news-and-events/artificial-intelligence/_jcr_content/pageimages/image.imageformat.lightbox.375839078.gif' href="https://sebasgarcia08.github.io/">
+<a href="https://sebasgarcia08.github.io/"><img alt="AI" width='100%' height="50%" src='https://ethz.ch/en/news-and-events/artificial-intelligence/_jcr_content/pageimages/image.imageformat.lightbox.375839078.gif'></a>
 </center>
 <h1 align="center">Hi 👋, I'm Sebastian Garcia</h1>
 <h3 align="center">A passionate AI Enthusiast that loves solving problems with data and technology.</h3>
