@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sebastian Garcia</h1>
 <h3 align="center">A passionate AI Enthusiast that loves solving problems with data and technology.</h3>
-<img align='right' alt="AI" width='100' src='https://wp.technologyreview.com/wp-content/uploads/2017/10/aiteachingitself1_0-5.gif'>
+<img align='center' alt="AI" width='400' src='https://wp.technologyreview.com/wp-content/uploads/2017/10/aiteachingitself1_0-5.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sebasgarcia08&label=Profile%20views&color=0e75b6&style=flat" alt="sebasgarcia08" /> </p>
 
